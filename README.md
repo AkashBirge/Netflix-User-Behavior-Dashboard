@@ -195,7 +195,8 @@ Country-level analysis enables Netflix to identify high-growth regions and targe
 
 6. Screenshots / Demo
 
-Dashboard Preview:
+Dashboard Preview:https://github.com/AkashBirge/Netflix-User-Behavior-Dashboard/blob/main/Snapshot%20of%20Netflix%20User%20Behaviour%20Dashboard.png
+
 Netflix User Behavior Analytics Dashboard
 
 The Netflix User Behavior Analytics Dashboard provides a centralized and interactive view of:
